@@ -41,17 +41,18 @@ This dashboard helps businesses:
 ## Screenshots
 ## Dashboard Preview
 
-### Executive Summary
+### Sales Overview
+![Sales](Exec_Dashboard.png)
+
+### Customer Dashboard
+![Customer](Customer_Dashboard.png)
+
+### Map Summary
 ![Map](Map_Dashboard.png)
 
 ### Product Dashboard
 ![Product](Item_Dashboard.png)
 
-### Customer Dashboard
-![Customer](Customer_Dashboard.png)
-
-### Sales Overview
-![Sales](Exec_Dashboard.png)
 
 ## How to Use
 1. Download the `.pbix` file
